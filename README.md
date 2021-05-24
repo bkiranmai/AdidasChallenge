@@ -1,4 +1,5 @@
  Mobile Challenge App automation
+ 
 Prerequisites: Appium, Android Emulator
 
 Test Framework: Cucumber, Java, Page Object Design
